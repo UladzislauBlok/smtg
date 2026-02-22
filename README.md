@@ -3,7 +3,7 @@
 ## Prerequisites
 
 1. stable rust toolchains: `rustup toolchain install stable`
-2. bpf-linker: `cargo install bpf-linker` (`--no-default-features` on macOS)
+2. bpf-linker: `cargo install bpf-linker`
 
 ## Build & Run
 
